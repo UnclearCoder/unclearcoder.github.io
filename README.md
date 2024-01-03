@@ -37,11 +37,11 @@ As a dedicated Student Tutor within the University of Puerto Rico-Mayaguez, I pl
 
 ## Licenses & Certifications
 
-- ![Certification1](/assets/logos/universidad_de_salamanca_logo_resized.jpg) X JORNADAS INTERNACIONALES DE ENSEÑANZA Y APRENDIZAJE DE LA ESTADÍSTICA Y LA INVESTIGACIÓN OPERATIVA - Universidad de Salamanca
-- ![Certification2](/assets/logos/ibm_logo_resized.jpg) IBM ST0101EN: Statistics 101 - IBM
-- ![Certification3](/assets/logos/free_code_camp_logo_resized.jpg) Scientific Computing with Python - freeCodeCamp
-- ![Certification4](/assets/logos/mongodbinc_logo_resized.jpg) MongoDB Python Developer Path - MongoDB
-- ![Certification5](/assets/logos/free_code_camp_logo_resized.jpg) Data Analysis with Python - freeCodeCamp   
+- X JORNADAS INTERNACIONALES DE ENSEÑANZA Y APRENDIZAJE DE LA ESTADÍSTICA Y LA INVESTIGACIÓN OPERATIVA - Universidad de Salamanca
+-  IBM ST0101EN: Statistics 101 - IBM
+- Scientific Computing with Python - freeCodeCamp
+- MongoDB Python Developer Path - MongoDB
+- Data Analysis with Python - freeCodeCamp   
 
 ## Skills
 
