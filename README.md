@@ -43,6 +43,11 @@ As a dedicated Student Tutor within the University of Puerto Rico-Mayaguez, I pl
 - [MongoDB Python Developer Path - MongoDB](https://learn.mongodb.com/c/mjNVmVcZQom3TfmPqf400w)
 - [Data Analysis with Python - freeCodeCamp](https://freecodecamp.org/certification/unclearcoder/data-analysis-with-python-v7)   
 
+# Links
+
+- [Github](https://github.com/UnclearCoder)
+- [Linkedin](https://www.linkedin.com/in/alejandro-o-1531ab1b6/)
+
 ## Skills
 
 Pattern Recognition • Quantitative Analytics • Visualization • Computer Science • Data Mining • Communication • Economic Research • Pandas (Software) • Seaborn • NumPy
